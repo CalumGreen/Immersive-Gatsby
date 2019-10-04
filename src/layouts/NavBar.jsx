@@ -34,8 +34,9 @@ const NavBar = () => (
     </StyledLink>
     <Nav>
       <Link to="/">Home</Link>
-      <Link to="/blog">Blog</Link>
-      <Link to="/about">About</Link>
+      <Link to="/blog">Immersive Experiences</Link>
+      <Link to="/about">About Us</Link>
+      <Link to="/contact">Contact Us</Link>
     </Nav>
   </Headroom>
 );
